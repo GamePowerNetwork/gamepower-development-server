@@ -1,0 +1,17 @@
+{
+  "name": "gamepower-development-server",
+  "version": "0.0.1",
+  "description": "GamePower Development Server",
+  "repository": "https://github.com/GamePowerNetwork/gamepower-development-server.git",
+  "author": "Michael Huntington <2466745+MikeHuntington@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
